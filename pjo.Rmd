@@ -1,0 +1,29 @@
+---
+title: 'CF: A _Stochastic_ Car-Following Package'
+author: Paul J. Ossenbruggen
+date: '2018-01-25'
+abstract: |
+  My goal was to prepare a minimum reproducible example
+  for Paul to answer his question on the R-Studio community
+  site. I'm going to put this in a github repository.
+output: 
+  html_document:
+    csl: inc/apq.csl
+    css: inc/jm-gray-vignette.css
+bibliography: inc/pjo.bib
+link_citations: true
+---
+
+# Section
+
+Let's enter some text. Iacus [@iacus] provided a key detail.
+Note: You can get all the citation styles on
+[github](https://github.com/citation-style-language/styles.git).
+
+## Sub head
+
+Let's add some more text.  This analysis used the `sde` [@sde]
+package for analysis.
+
+# References
+
